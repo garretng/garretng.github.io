@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Day 2"
+date:   2024-05-25 10:53:19 -0700
+categories: Coding
+---
+
+#Trying To See How Long I Can Last
+
+A pursuit I started around the age of 17. In this case, I want to stick with this project. A pattern of mine is to start a project strong and then around the "late-early game" of a project I mentally fizzle out, usually delete whatever program or webapp I'm learning on at the time. Time passes, I bounce between my day job and playing games with friends online, eventually I need enough for a creative outlet that I go looking for one. This time, it's Unity. All that said, I challenging myself to work on this project in everyday for a month.
+
+#Day 1 Recap
+
+After settling on an espionage themed increment game I opened up [Xmind](www.Xmind.com) and started making a mind map to outline the idea. Decided on some Core Mechanics and UI elements and opened up Unity.
+
+As Unity loaded, I decided that the story is about a spy who has been burned from their organization and is now being hunted. They must do
+whatever it takes to survive. Cool! My first goal was to create the core "clicker" mechanic functionality.
+
+I started with the basic UI elements and surprised myself with how quickly I jumped back into Unity. 
+Added a Canvas and a Panel to the scence, turned the background black and added a Button to the scene.
+The spy get burned and he is on the run so he decided to go to one of their personal hideouts in the rural
+mountains of not even we know. He nothing to his name as all his bank accounts and documentation has been frozen. 
+Their most valuable possessions now are a hand-powered generator, a laptop, and a sattelite internet device. Lucky him. 
+
+This hand-powered generator will generate the first resource for the player, Power.
+This process will be simulated in our game
+by the player clicking on the Generate button.
+
+I got the functionality for the generate button working. The player clicks the button and that click 
+adds 1 point of Power to  their stat sheet as well as displays their total power in the top left corner of the screen.
+
+The spy now needs some form of currency to fund his life on the run. Naturally, he mines bitcoin!
+
+This bitcoin mining will be controlled by a toggle bitcoin miner button that when pressed starts a script that adds 1 bitcoin
+to the players stat sheet every 8 seconds as well as display the players total bitcoin at the top left
+corner of the screen.
+
+The heat is on and the spys advisarys are after him. To simulate this I implamented a timer which is the core fail condition.
+If the time runs out, you are caught.
+
+At the end of the first coding session I was working on implamenting a timer decay system that will increase or decrease
+the time ratio based on how "exposed" the spy is to the outside world and how close you are to being caught.
+
+Until next time.
