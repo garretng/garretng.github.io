@@ -13,11 +13,28 @@ Worked on the GUI all morning. Decided to add a desk a with a laptop and 2 phone
 HUB for interacting with the game. Here the player will see their stats and have the ability to interact with the various controls, menus, agent rosters, mission controls, hideout upgrades, and monitor intelligence. 
 Just a few things.
 
+**added SYSVIEW 1.0 program to laptop.**
+
+**added Power Stored stat to SYSVIEW.**
+
+**added Total Bitcoin stat to SYSVIEW.**
+
+**added Mine Toggle by pressing Total Bitcoin stat in SYSVIEW.**
+
+**added Total Bitcoin text color red with miner off.**
+
+**added Total Bitcoin text color green with miner on.**
+
+**added est. threat level stat to SYSVIEW.**
+
 Start of Day Snapshot:
 ![start of day 3 snapshot](/images/day4-game-snapshot-1.png)
 
 After Transfering Stats To Screen Snapshot:
-![start of day 3 snapshot](/images/day4-game-snapsho-2.png)
+![start of day 3 snapshot](/images/day4-game-snapshot-2.png)
+
+Close Up Of Screen:
+![start of day 3 snapshot](/images/day4-game-snapshot-3.png)
 
 
 
