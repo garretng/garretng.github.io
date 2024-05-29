@@ -9,10 +9,10 @@ I had a great weekend designing and programming Spy Run. I spend the majority of
 working on graphics and ui elements and it shows in how different the game looks. Compared to Day 3 when I was just using text gui elements.
 
 Day 3 snapshot:
-![start of day 3 snapshot](/assets/images/day3-game-snapshot.png)
+![start of day 3 snapshot](/images/day3-game-snapshot.png)
 
 Day 5 snapshot:
-![start of day 3 snapshot](/assets/images/day5-game-snapshot-1.png)
+![start of day 3 snapshot](/images/day5-game-snapshot-1.png)
 
 On my drive to work today I was listening to the "Think Like A Game Designer" podcast and they were talking about setting
 constraints on you design when starting a new game. The idea is to use these artificial design constraints to guide you toward a "game" rather than just a
