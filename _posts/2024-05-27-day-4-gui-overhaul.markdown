@@ -28,13 +28,13 @@ Just a few things.
 **added est. threat level stat to SYSVIEW.**
 
 Start of Day Snapshot:
-![start of day 3 snapshot](/images/day4-game-snapshot-1.png)
+![start of day 3 snapshot](/assets/images/day4-game-snapshot-1.png)
 
 After Transfering Stats To Screen Snapshot:
-![start of day 3 snapshot](/images/day4-game-snapshot-2.png)
+![start of day 3 snapshot](/assets/images/day4-game-snapshot-2.png)
 
 Close Up Of Screen:
-![start of day 3 snapshot](/images/day4-game-snapshot-3.png)
+![start of day 3 snapshot](/assets/images/day4-game-snapshot-3.png)
 
 
 

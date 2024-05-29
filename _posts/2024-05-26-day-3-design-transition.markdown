@@ -7,7 +7,7 @@ categories: Coding
 
 Just woke up and I'm looking over my code trying to figure out where I left off. I should have marked down some notes last night but I basically passed out in my chair. Here's a what I'm looking at:
 
-![start of day 3 snapshot](/images/day3-game-snapshot.png)
+![start of day 3 snapshot](/assets/images/day3-game-snapshot.png)
 
 Very simple but along the top of the screen we have a key stat trackers which includes stored power, stored bitcoin, the game timer and the current threat level the player is facing.
 
