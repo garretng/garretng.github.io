@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Day 6 - Oh, Man!"
+date:   2024-05-29 05:00:00 -0700
+categories: Coding
+---
+
+So here's the thing. I restart things. Specifically, I restart projects and games quite often. I will find myself
+overwhelmed with how everything is going and the idea of restarting with a fresh slate and all the knowledge from my last iteration
+always appeals to me. It's not a good thing but I wouldn't say it's a bad thing either. I don't get discouraged with the idea
+of repeating some of the work I did so restarting projects in the early stages might not be the worst thing to do.
+
+I restarted. While designing the UI for the first iteration of Spy Run, I became very very underwhelmed with how it was turning out
+and I found myself diving deep into unnessesarily complex functions that were only neccessary because of the way I was designing the UI.
+
+Specifically, I was designing the UI around a image of a laptop on a desk. I was creating UI elements on top of the laptop screen to simulate using the laptop. While the idea sounded great
+and looked much better than the basic UI that I created when I started the game, it was overly complex for the features that it offered. I decided to take what I liked about the project, throw away the rest, and restart.
+
