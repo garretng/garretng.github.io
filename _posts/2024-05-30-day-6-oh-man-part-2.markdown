@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 6 - Oh, Man! Part 2 + Daily Changelog"
-date:   2024-05-29 07:00:00 -0700
+date:   2024-05-30 07:00:00 -0700
 categories: Coding
 ---
 
@@ -14,13 +14,24 @@ Today I am going to continue working toward finishing the tutorial stage in the 
 
 ***Tutorial Objective:*** Gather one pieces of ***intel*** from your ncrypt app on your tablet. Analyze this ***intel*** to create a ***mission brief***.
 
-***Player Path to Complete Objective:*** open game -> open "ncrypt" on tablet by pressing "n" -> click on message in inbox -> click on intel attachment in message window to download
-the attachment to your intel folder. -> open **intel storage app" -> click on the intel you want to select to add it to a intel combination system -> click the combine button to combine and analyze
-the ***intel*** to create a ***mission brief*** -> tutorial complete._
+***Player Path to Complete Objective:*** ->
+
+1. open game -> 
+
+2. open "ncrypt" on tablet by pressing "n" -> 
+
+3. click on message in inbox -> 
+
+4. click on intel attachment in message window to download
+the attachment to your intel folder. -> 
+
+5. open **intel storage app" -> click on the intel you want to select to add it to a intel combination system -> click the combine button to combine and analyze
+the ***intel*** to create a ***mission brief*** -> 
+
+6. tutorial complete._
 
 This will be todays task.
 
-'''
 # Spy-Run Back to Basics  Development Changelog
 
 All notable changes to this project will be documented in this file.
@@ -29,17 +40,17 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
--- UI
+- UI
 		
-		-- added tablet (display area for all menus and UI elements) + functionality
+		- added tablet (display area for all menus and UI elements) + functionality
 	
-	-- added tablet application "alfred" (display area for basic player and game stats are displayed) + functionality
+	- added tablet application "alfred" (display area for basic player and game stats are displayed) + functionality
 	
-		-- added "alfred power monitor" (display player's stored power level) + functionality
+		- added "alfred power monitor" (display player's stored power level) + functionality
 
-		-- added "alfred bitcoin monitor" (display player's store bitcoin level) + functionality
+		- added "alfred bitcoin monitor" (display player's store bitcoin level) + functionality
 	
-	-- added tablet application "ncrypt" (display area for messages are displayed) + functionality
+	- added tablet application "ncrypt" (display area for messages are displayed) + functionality
 	
 	
 ### Changed
