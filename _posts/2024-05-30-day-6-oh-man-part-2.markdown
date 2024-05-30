@@ -30,10 +30,15 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 -- UI
+		
 		-- added tablet (display area for all menus and UI elements) + functionality
+	
 	-- added tablet application "alfred" (display area for basic player and game stats are displayed) + functionality
+	
 		-- added "alfred power monitor" (display player's stored power level) + functionality
+
 		-- added "alfred bitcoin monitor" (display player's store bitcoin level) + functionality
+	
 	-- added tablet application "ncrypt" (display area for messages are displayed) + functionality
 	
 	
