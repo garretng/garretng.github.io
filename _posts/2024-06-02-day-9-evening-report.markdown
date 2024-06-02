@@ -12,19 +12,19 @@ The player character, a spy, has been burned from their organization and is now 
 Implemented Features:
 
 The player can view their tablet.
-![Image](/images/day-9-game-snap-shot-1.png)
+![Image](/images/day-9-game-snap-shot-1.PNG)
 The player can monitor their power and Bitcoin resources.
 The player can turn on their Bitcoin miner.
-![Image](/images/day-9-game-snap-shot-2.png)
+![Image](/images/day-9-game-snap-shot-2.PNG)
 The player can switch to their ncrypt App and view their messages.
-![Image](/images/day-9-game-snap-shot-3.png)
+![Image](/images/day-9-game-snap-shot-3.PNG)
 The player can open their messages and save message attachments to the Knox app.
-![Image](/images/day-9-game-snap-shot-4.png)
+![Image](/images/day-9-game-snap-shot-4.PNG)
 The player can navigate to the Knox app to view a list of their Intel items.
-![Image](/images/day-9-game-snap-shot-5.png)
+![Image](/images/day-9-game-snap-shot-5.PNG)
 The player can open their Intel items and analyze each line to reveal the text or information underneath.
-![Image](/images/day-9-game-snap-shot-6.png)
-![Image](/images/day-9-game-snap-shot-7.png)
+![Image](/images/day-9-game-snap-shot-6.PNG)
+![Image](/images/day-9-game-snap-shot-7.PNG)
 
 
 Next Steps:
