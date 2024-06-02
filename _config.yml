@@ -23,7 +23,7 @@ email: garretxgarret@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Scratching my writing itch by blogging about coding!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://garretg.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/garretng/garretng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: garretng
 github_username:  garretng
 
