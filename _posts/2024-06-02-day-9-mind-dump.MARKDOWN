@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 9 - Mind Dump"
-date:   2024-06-02 25:04:00 -0700
+date:   2024-06-02 15:04:00 -0700
 categories: Coding
 ---
 
@@ -13,11 +13,11 @@ ws analyzed.
 I think I will store the rarity borders on the intel items themselves and then have reveal after the intel item is analyzed. Then, when the player selects to send the item to _houston
 houston will display the rarity border with the color of the most rare intel item on the staging list.
 
-![Image](/images/day-9-rarity-border-shot-1.PNG)
-![Image](/images/day-9-rarity-border-shot-2.PNG)
-![Image](/images/day-9-rarity-border-shot-3.PNG)
-![Image](/images/day-9-rarity-border-shot-4.PNG)
-![Image](/images/day-9-rarity-border-shot-5.PNG)
-![Image](/images/day-9-rarity-border-shot-6.PNG)
-![Image](/images/day-9-rarity-border-shot-7.PNG)
+![Image](/images/day-9-rarity-border-shot-11.PNG)
+![Image](/images/day-9-rarity-border-shot-22.PNG)
+![Image](/images/day-9-rarity-border-shot-33.PNG)
+![Image](/images/day-9-rarity-border-shot-44.PNG)
+![Image](/images/day-9-rarity-border-shot-55.PNG)
+![Image](/images/day-9-rarity-border-shot-66.PNG)
+![Image](/images/day-9-rarity-border-shot-77.PNG)
 
