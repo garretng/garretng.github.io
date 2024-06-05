@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 9 - Mind Dump"
-date:   2024-06-02 15:04:00 -0700
+date:   2024-06-02 23:59:00 -0700
 categories: Coding
 ---
 
