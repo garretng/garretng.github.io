@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 12 - The Turning Point"
-date:   2024-06-05 12:00:00 -0700
+date:   2024-06-05 07:00:00 -0700
 categories: Coding
 ---
 
@@ -15,4 +15,3 @@ the technical skill to pull it off. Good feeling.
 The plan is to now complete the demo of the combat with in the next 19 Days.
 
 Let's get to work.
-
