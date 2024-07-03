@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Unreal"
+date:   2024-07-03 09:00:00 -0700
+categories: Coding
+---
+
+I haven't posted in a while because I burnt out. I would like to use this post to examine
+what happened.
+
+On May 24th, 2024 I restarted my game development journey in Unity Engine. My goal was to work in 
+a game engine every day for 30 days. I'm happy to say that I accomplished that goal, but I'm disappointed to say, 
+shortly after the 30 days passed my excitement for the process faded and I began to struggle with keeping motivated.
+
+I'm still trying to learn myself. Still trying to be mindful of my creative process. Still pushing toward expanding my
+creative horizons by pushing myself to stay focused and disciplined. Look, I want to feel creative. I want to live in that 
+place where I'm so excited about something that it becomes a habitual. That it becomes an obsession. I don't think that
+Game Development will be the thing that keeps me in that place. But I would like to use the craft of game development and 
+design to grow my abilities as a creative and a craftsman.
+
+I think I can do it. I think that one day I will find myself in a place where I feel comfortable calling myself a creative.
+I want to grow my confidence.
+
+Kobe Bean Bryant once said: **"Confidence comes from preparation"** 
+
+I want to be prepared for when the opportunities arise so that my Confidence is not feigned but instead, warranted
+and genuine. I want to feel like I can do, not like I cannot and I want to surround myself with positive, like-minded and
+creatively inclined individuals.
+
+Let's get to work.
+
+
